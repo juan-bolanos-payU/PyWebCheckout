@@ -17,3 +17,10 @@ Integration of PayU Latam Webcheckout using python/Django/bootstrap
 * Sublime codeintel: Code intelligence and smart autocomplete engine for Sublime Text.
                   
                   URL: http://sublimecodeintel.github.io/SublimeCodeIntel
+
+## Useful python packages
+
+* NOSE: Testing tool
+* Freeze: Useful if you want to recreate your project from scracth and want to know which libraries and versions was using with your last project.
+          `pip freeze > requirements.txt`
+* virtualenv:
