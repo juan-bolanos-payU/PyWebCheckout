@@ -23,6 +23,6 @@ Integration of PayU Latam Webcheckout using python/Django/bootstrap
 * NOSE: Testing tool
 * Freeze: Useful if you want to recreate your project from scracth and want to know which libraries and versions was using with your last project.
           `pip freeze > requirements.txt`
-Later, you can use this file to use all the dependencies that I used to compile this project (You can run the installation inside a virtualenv environment to avoid affecting another projects)
+Later, you can use this file to use all the dependencies that I used to compile this project (You can run the installation inside a virtualenv environment to avoid affecting another projects and ensure consistency accross developers and projects)
 `pip install -r requirements.txt`
 * virtualenv:
